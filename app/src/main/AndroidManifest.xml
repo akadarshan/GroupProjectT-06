@@ -9,8 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_app_logo_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Contact"
-            android:theme="@style/AppTheme.FullScreen"></activity>
+        <activity android:name=".About"></activity>
+        <activity
+            android:name=".Contact"
+            android:theme="@style/AppTheme.FullScreen" />
         <activity
             android:name=".Login"
             android:theme="@style/AppTheme.FullScreen" />
