@@ -22,7 +22,7 @@
         android:elevation="10dp"
         android:text="About"
         android:textColor="@color/colorWhite"
-        android:textSize="20sp"
+        android:textSize="36sp"
         android:textStyle="bold" />
     <ImageView
         android:id="@+id/circle1"

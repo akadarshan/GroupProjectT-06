@@ -143,6 +143,7 @@
                     android:layout_height="wrap_content"
                     android:background="@drawable/bg_button"
                     android:text="Login"
+                    android:textSize="20sp"
                     android:textAllCaps="false"
                     android:textColor="@color/colorWhite" />
             </RelativeLayout>
