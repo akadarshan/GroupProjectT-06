@@ -100,7 +100,7 @@
                         android:layout_margin="10dp"
                         android:text="Rutvi Vaghasiya"
                         android:textColor="@color/colorPurple"
-                        android:textSize="14sp"
+                        android:textSize="18sp"
                         android:textStyle="bold" />
 
                     <TextView
@@ -124,7 +124,6 @@
                         android:textStyle="bold" />
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
-
 
         </RelativeLayout>
 
